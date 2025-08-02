@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Título de la página</title>
+    <title>Prueba</title>
 </head>
 <body>
     <h1>¡Hola, mundo!</h1>
@@ -10,3 +10,4 @@
 </body>
 </html>
     <p>Este es un párrafo de ejemplo.</p>
+    <p>Modificación.</p>
